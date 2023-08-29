@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemStateCounter", "ProblemStateCounter.csproj", "{56312D60-5FE2-4567-BAC2-3416EE54330B}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SymfaProblemStateCounterApp", "..\SymfaProblemStateCounterApp\SymfaProblemStateCounterApp.vdproj", "{30335A90-7E14-45B0-8239-041D377E7272}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{56312D60-5FE2-4567-BAC2-3416EE54330B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56312D60-5FE2-4567-BAC2-3416EE54330B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56312D60-5FE2-4567-BAC2-3416EE54330B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30335A90-7E14-45B0-8239-041D377E7272}.Debug|Any CPU.ActiveCfg = Debug
+		{30335A90-7E14-45B0-8239-041D377E7272}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
